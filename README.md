@@ -60,7 +60,6 @@
 
 ---
 
-### 🧬 Activity Visualization
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fredy-devsec/Fredy-devsec/main/matrix.svg" width="100%" alt="Matrix Code Rain Animation - Fredy"/>
 </p>
