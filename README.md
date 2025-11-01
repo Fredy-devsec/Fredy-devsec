@@ -1,5 +1,4 @@
 <h1 align="center">🔐 Fredy — Cybersecurity & Red Team Specialist</h1>
-
 <h3 align="center">Python • AI • Authorized Pentesting</h3>
 <p align="center"><i>“Every system has a vulnerability — I find it and help fix it.”</i></p>
 
@@ -8,9 +7,9 @@
 ### 💻 About Me
 - 🎓 I'm studying **Information Technology (Informatica)** in **Italy**, currently in the 3rd year.  
 - 🧠 Passionate about **Cybersecurity**, **Artificial Intelligence**, and **ethical hacking**.  
-- 🕶️ I focus on the **offensive side of security** — Red Teaming, pentesting, and bug bounty.  
-- 🐍 I use **Python** to automate scans, analyze data, and build proof-of-concepts for vulnerabilities.  
-- ⚙️ My long-term goal is to work as a **Security Researcher / Red Teamer**, identifying and helping fix vulnerabilities to make systems safer.  
+- 🕶️ Focused on the **offensive side of security** — Red Teaming, Pentesting, and Bug Bounty.  
+- 🐍 Using **Python** to automate scans, analyze data, and build proof-of-concepts for vulnerabilities.  
+- ⚙️ My long-term goal is to become a **Security Researcher / Red Teamer**, identifying and fixing vulnerabilities to make systems safer.  
 
 ---
 
@@ -45,8 +44,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredydevsec&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredydevsec&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fredy-devsec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredy-devsec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000" alt="Top Languages" />
 </p>
 
 ---
@@ -60,6 +59,7 @@
 
 ---
 
+### 🧬 Activity Visualization
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fredy-devsec/Fredy-devsec/main/matrix.svg" width="100%" alt="Matrix Code Rain Animation - Fredy"/>
 </p>
@@ -70,16 +70,4 @@
 
 <!--
 **Fredy-devsec/Fredy-devsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
