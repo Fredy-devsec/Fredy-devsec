@@ -62,7 +62,7 @@
 
 ### 🧬 Activity Visualization
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fredy-devsec/matrix.svg/main/matrix.svg" width="100%" alt="Matrix Code Rain Animation - Fredy"/>
+  <img src="https://raw.githubusercontent.com/Fredy-devsec/Fredy-devsec/main/matrix.svg" width="100%" alt="Matrix Code Rain Animation - Fredy"/>
 </p>
 
 ---
@@ -83,3 +83,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
